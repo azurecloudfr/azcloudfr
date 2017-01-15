@@ -34,6 +34,7 @@ url:
 # Gems
 gems:
   - jekyll-paginate
+  - jekyll-admin
 
 #Others
 markdown: kramdown
