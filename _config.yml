@@ -2,6 +2,7 @@
 name:         Azure Cloud
 tagline:      Le plein de docs et tutoriaux pour Azure en français !
 baseurl:      ""
+description:  Le plein de docs et tutoriaux pour Azure en français !
 
 # Gems
 gems:
